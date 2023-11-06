@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
 import org.mockito.Mock;
 import org.mockito.runners.MockitoJUnitRunner;
 import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.CoreMatchers.*
+import static org.hamcrest.CoreMatchers.*;
 
 @RunWith(MockitoJUnitRunner.class)
 public class LoginUnitTest {
